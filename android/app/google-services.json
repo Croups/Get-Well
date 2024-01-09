@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869888653701",
+    "project_id": "get-well-2b3c9",
+    "storage_bucket": "get-well-2b3c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869888653701:android:f09752d199b4fb919eecec",
+        "android_client_info": {
+          "package_name": "com.getwell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsdQDua7lmSJFdk9PqQHMV5YKfCtENalQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
